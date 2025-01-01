@@ -1,0 +1,9 @@
+name: JetBrains
+type: Company
+data:
+  platforms:
+    - name: GitHub
+      type: Code Hosting
+      orgs:
+        - id: 878437
+          name: JetBrains

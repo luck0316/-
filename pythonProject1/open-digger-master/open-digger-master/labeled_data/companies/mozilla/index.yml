@@ -1,0 +1,14 @@
+name: Mozilla
+type: Company
+data:
+  labels:
+    - mdn
+    - rust
+  platforms:
+    - name: GitHub
+      type: Code Hosting
+      orgs:
+        - id: 131524
+          name: mozilla
+        - id: 22351667
+          name: mozilla-mobile

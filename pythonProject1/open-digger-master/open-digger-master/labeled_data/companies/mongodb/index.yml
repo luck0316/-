@@ -1,0 +1,9 @@
+name: MongoDB
+type: Company
+data:
+  platforms:
+    - name: GitHub
+      type: Code Hosting
+      orgs:
+        - id: 45120
+          name: mongodb

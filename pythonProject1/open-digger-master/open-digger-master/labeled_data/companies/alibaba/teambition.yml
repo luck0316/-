@@ -1,0 +1,9 @@
+name: Teambition
+type: Project
+data:
+  platforms:
+    - name: GitHub
+      type: Code Hosting
+      orgs:
+        - id: 1983116
+          name: teambition

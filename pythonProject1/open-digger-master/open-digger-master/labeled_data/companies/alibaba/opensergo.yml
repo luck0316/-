@@ -1,0 +1,9 @@
+name: OpenSergo
+type: Project
+data:
+  platforms:
+    - name: GitHub
+      type: Code Hosting
+      orgs:
+        - id: 100843567
+          name: opensergo

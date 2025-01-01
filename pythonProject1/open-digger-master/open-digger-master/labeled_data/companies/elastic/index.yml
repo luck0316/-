@@ -1,0 +1,12 @@
+name: Elastic
+type: Company
+data:
+  labels:
+    - elasticsearch
+    - kibana
+  platforms:
+    - name: GitHub
+      type: Code Hosting
+      orgs:
+        - id: 6764390
+          name: elastic

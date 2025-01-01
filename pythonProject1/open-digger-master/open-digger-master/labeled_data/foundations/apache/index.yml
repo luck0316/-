@@ -1,0 +1,9 @@
+name: Apache Software Foundation
+type: Foundation
+data:
+  platforms:
+    - name: GitHub
+      type: Code Hosting
+      orgs:
+        - id: 47359
+          name: apache

@@ -1,0 +1,9 @@
+name: Fury
+type: Project
+data:
+  platforms:
+    - name: GitHub
+      type: Code Hosting
+      repos:
+        - id: 633686625
+          name: alipay/fury

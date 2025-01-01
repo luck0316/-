@@ -1,0 +1,457 @@
+name: System Software
+type: Domain-0
+data:
+  platforms:
+    - name: GitHub
+      type: Code Hosting
+      repos:
+        - id: 2325298
+          name: torvalds/linux
+        - id: 20580498
+          name: kubernetes/kubernetes
+        - id: 100060912
+          name: microsoft/terminal
+        - id: 156018
+          name: redis/redis
+        - id: 77213120
+          name: Eugeny/tabby
+        - id: 41986369
+          name: pingcap/tidb
+        - id: 16563587
+          name: cockroachdb/cockroach
+        - id: 6452529
+          name: rethinkdb/rethinkdb
+        - id: 60246359
+          name: ClickHouse/ClickHouse
+        - id: 269336148
+          name: sickcodes/Docker-OSX
+        - id: 507775
+          name: elastic/elasticsearch
+        - id: 160083795
+          name: SerenityOS/serenity
+        - id: 2909429
+          name: nicolargo/glances
+        - id: 50603846
+          name: parse-community/parse-server
+        - id: 145803079
+          name: felixrieseberg/windows95
+        - id: 201454051
+          name: Awesome-HarmonyOS/HarmonyOS
+        - id: 9994688
+          name: ScoopInstaller/Scoop
+        - id: 71056775
+          name: kovidgoyal/kitty
+        - id: 181042062
+          name: utmapp/UTM
+        - id: 14158237
+          name: copy/v86
+        - id: 21827146
+          name: seaweedfs/seaweedfs
+        - id: 714074
+          name: pouchdb/pouchdb
+        - id: 11008207
+          name: vitessio/vitess
+        - id: 20537104
+          name: cayleygraph/cayley
+        - id: 208728772
+          name: milvus-io/milvus
+        - id: 84240850
+          name: timescale/timescaledb
+        - id: 760732
+          name: ccgus/fmdb
+        - id: 52595226
+          name: xtaci/kcptun
+        - id: 90320494
+          name: ish-app/ish
+        - id: 218157
+          name: ranger/ranger
+        - id: 1908577
+          name: http-party/http-server
+        - id: 3714900
+          name: arut/nginx-rtmp-module
+        - id: 7270538
+          name: ankitects/anki
+        - id: 30245748
+          name: gizak/termui
+        - id: 1579809
+          name: nicklockwood/iCarousel
+        - id: 100982449
+          name: argoproj/argo-workflows
+        - id: 114187903
+          name: apple/foundationdb
+        - id: 95133665
+          name: s-matyukevich/raspberry-pi-os
+        - id: 4414698
+          name: compiler-explorer/compiler-explorer
+        - id: 136505169
+          name: tinygo-org/tinygo
+        - id: 105627846
+          name: reactos/reactos
+        - id: 32873313
+          name: systemd/systemd
+        - id: 2162719
+          name: xdissent/ievms
+        - id: 250761246
+          name: aristocratos/bashtop
+        - id: 54230994
+          name: coredns/coredns
+        - id: 319758964
+          name: rocky-linux/rocky
+        - id: 33037215
+          name: docker-mailserver/docker-mailserver
+        - id: 144849757
+          name: labring/sealos
+        - id: 462292
+          name: mongodb/node-mongodb-native
+        - id: 70127218
+          name: espressif/arduino-esp32
+        - id: 367284699
+          name: lima-vm/lima
+        - id: 46089560
+          name: containerd/containerd
+        - id: 23328131
+          name: tmux-plugins/tmux-resurrect
+        - id: 62925253
+          name: rgcr/m-cli
+        - id: 365005377
+          name: aristocratos/btop
+        - id: 62722814
+          name: asLody/VirtualApp
+        - id: 677464
+          name: doctrine/dbal
+        - id: 24494032
+          name: mysql/mysql-server
+        - id: 7229063
+          name: dnschneid/crouton
+        - id: 9060347
+          name: google/traceur-compiler
+        - id: 437011
+          name: openzfs/zfs
+        - id: 265995
+          name: VowpalWabbit/vowpal_wabbit
+        - id: 275095333
+          name: gao-sun/eul
+        - id: 82766831
+          name: anbox/anbox
+        - id: 72979287
+          name: oguzhaninan/Stacer
+        - id: 500093
+          name: winsw/winsw
+        - id: 384219990
+          name: warpdotdev/Warp
+        - id: 2857373
+          name: Maximus5/ConEmu
+        - id: 1787090
+          name: jigish/slate
+        - id: 16878185
+          name: teddysun/shadowsocks_install
+        - id: 30291090
+          name: i3/i3
+        - id: 9626741
+          name: Nuitka/Nuitka
+        - id: 277194804
+          name: noisetorch/NoiseTorch
+        - id: 1148352
+          name: Supervisor/supervisor
+        - id: 7408108
+          name: RT-Thread/rt-thread
+        - id: 192805335
+          name: microsoft/mimalloc
+        - id: 88327406
+          name: xmrig/xmrig
+        - id: 106087444
+          name: electerm/electerm
+        - id: 43636412
+          name: motioneye-project/motioneyeos
+        - id: 103010090
+          name: objective-see/LuLu
+        - id: 51430111
+          name: Cenmrev/V2RayX
+        - id: 127782653
+          name: xzhih/one-key-hidpi
+        - id: 3386088
+          name: NixOS/nix
+        - id: 22711503
+          name: gcc-mirror/gcc
+        - id: 327859577
+          name: juicedata/juicefs
+        - id: 16734696
+          name: meetecho/janus-gateway
+        - id: 179385712
+          name: bottlerocket-os/bottlerocket
+        - id: 11572519
+          name: NodeOS/NodeOS
+        - id: 59771425
+          name: zephyrproject-rtos/zephyr
+        - id: 184571651
+          name: material-shell/material-shell
+        - id: 89322848
+          name: Angel-ML/angel
+        - id: 54453471
+          name: appleboy/gorush
+        - id: 2328181
+          name: freebsd/freebsd-src
+        - id: 94897336
+          name: imgproxy/imgproxy
+        - id: 47057247
+          name: Wind4/vlmcsd
+        - id: 14627445
+          name: s3fs-fuse/s3fs-fuse
+        - id: 101540444
+          name: imbushuo/mac-precision-touchpad
+        - id: 69590701
+          name: vmware/clarity
+        - id: 17154573
+          name: php-pm/php-pm
+        - id: 33208063
+          name: centrifugal/centrifugo
+        - id: 3946572
+          name: PostgresApp/PostgresApp
+        - id: 5374914
+          name: NanoHttpd/nanohttpd
+        - id: 14135470
+          name: apache/storm
+        - id: 28796010
+          name: rancher/os
+        - id: 38919702
+          name: File-New-Project/EarTrumpet
+        - id: 5129986
+          name: MacPass/MacPass
+        - id: 40214070
+          name: graphql/express-graphql
+        - id: 190845267
+          name: n64decomp/sm64
+        - id: 17984636
+          name: lebinh/ngxtop
+        - id: 82282
+          name: purcell/emacs.d
+        - id: 37778564
+          name: Clipy/Clipy
+        - id: 37175929
+          name: machyve/xhyve
+        - id: 78869430
+          name: heroiclabs/nakama
+        - id: 403020531
+          name: abiosoft/colima
+        - id: 82700090
+          name: uber/cadence
+        - id: 11654790
+          name: techfort/LokiJS
+        - id: 200321698
+          name: rui314/chibicc
+        - id: 49401416
+          name: spacejam/sled
+        - id: 410430370
+          name: IceWhaleTech/CasaOS
+        - id: 67938435
+          name: jpbruinsslot/slack-term
+        - id: 139652405
+          name: wszqkzqk/deepin-wine-ubuntu
+        - id: 187922067
+          name: microsoft/WSL2-Linux-Kernel
+        - id: 5057307
+          name: julienXX/terminal-notifier
+        - id: 49159983
+          name: rescript-lang/rescript-compiler
+        - id: 40563188
+          name: Yelp/dumb-init
+        - id: 294556570
+          name: chriswalz/bit
+        - id: 40504480
+          name: mit-pdos/xv6-public
+        - id: 168712350
+          name: Snapchat/KeyDB
+        - id: 19360616
+          name: docker-archive/classicswarm
+        - id: 13297858
+          name: vysheng/tg
+        - id: 7331227
+          name: brndnmtthws/conky
+        - id: 15884926
+          name: hishamhm/htop
+        - id: 477528511
+          name: ekzhang/bore
+        - id: 3568543
+          name: rui314/8cc
+        - id: 50461701
+          name: tensorflow/serving
+        - id: 203957456
+          name: OpenAtomFoundation/TencentOS-tiny
+        - id: 30381877
+          name: open-cli-tools/concurrently
+        - id: 10214540
+          name: rlidwka/sinopia
+        - id: 130578889
+          name: pymumu/smartdns
+        - id: 210347143
+          name: supabase/realtime
+        - id: 119961591
+          name: linyacool/WebServer
+        - id: 82933315
+          name: telepresenceio/telepresence
+        - id: 54967868
+          name: blinksh/blink
+        - id: 72155591
+          name: Jasonette/JASONETTE-iOS
+        - id: 212152900
+          name: wasm3/wasm3
+        - id: 128479644
+          name: esphome/esphome
+        - id: 110027931
+          name: metallb/metallb
+        - id: 1259258
+          name: klange/toaruos
+        - id: 2310495
+          name: ceph/ceph
+        - id: 537699
+          name: Kitware/CMake
+        - id: 3029324
+          name: twitter/hogan.js
+        - id: 173785481
+          name: aquasecurity/tfsec
+        - id: 49766020
+          name: mvdan/sh
+        - id: 27358084
+          name: sysown/proxysql
+        - id: 21109776
+          name: spotify/docker-gc
+        - id: 2341302
+          name: cuckoosandbox/cuckoo
+        - id: 30828052
+          name: yuin/gopher-lua
+        - id: 443977141
+          name: Kindelia/HVM
+        - id: 40667593
+          name: realm/realm-js
+        - id: 11469439
+          name: apache/mesos
+        - id: 6975711
+          name: sintaxi/harp
+        - id: 59151203
+          name: winfsp/winfsp
+        - id: 18800032
+          name: tonsky/datascript
+        - id: 116938442
+          name: traefik/yaegi
+        - id: 94461013
+          name: contribsys/faktory
+        - id: 197914161
+          name: drakkan/sftpgo
+        - id: 371564104
+          name: megaease/easegress
+        - id: 25872841
+          name: spf13/afero
+        - id: 4719523
+          name: astrada/google-drive-ocamlfuse
+        - id: 27561102
+          name: stamparm/maltrail
+        - id: 865412
+          name: OpenTSDB/opentsdb
+        - id: 13909573
+          name: cisco/openh264
+        - id: 372536760
+          name: oceanbase/oceanbase
+        - id: 5844474
+          name: EventStore/EventStore
+        - id: 21562567
+          name: includeos/IncludeOS
+        - id: 77385607
+          name: JanusGraph/janusgraph
+        - id: 7083240
+          name: orientechnologies/orientdb
+        - id: 19816070
+          name: MariaDB/server
+        - id: 94530674
+          name: Syllo/nvtop
+        - id: 3119126
+          name: symfony/filesystem
+        - id: 101866073
+          name: alibaba/AliOS-Things
+        - id: 7202769
+          name: emqx/emqx
+        - id: 7370241
+          name: RIOT-OS/RIOT
+        - id: 186024298
+          name: nushell/nushell
+        - id: 79901405
+          name: objectbox/objectbox-java
+        - id: 236648333
+          name: flightlessmango/MangoHud
+        - id: 333303663
+          name: bytebase/bytebase
+        - id: 221831081
+          name: pop-os/shell
+        - id: 63731386
+          name: tidwall/buntdb
+        - id: 12901559
+          name: ossec/ossec-hids
+        - id: 7258685
+          name: cloudius-systems/osv
+        - id: 36428094
+          name: tock/tock
+        - id: 21156908
+          name: fastos/fastsocket
+        - id: 183929744
+          name: erikgrinaker/toydb
+        - id: 66874942
+          name: rapid7/metasploitable3
+        - id: 141720301
+          name: dr5hn/countries-states-cities-database
+        - id: 613723
+          name: basho/riak
+        - id: 28438
+          name: pluginaweek/state_machine
+        - id: 40968174
+          name: vegasbrianc/prometheus
+        - id: 169431434
+          name: react-native-async-storage/async-storage
+        - id: 5499304
+          name: chyyuu/os_kernel_lab
+        - id: 166515022
+          name: trinodb/trino
+        - id: 17165658
+          name: apache/spark
+        - id: 45821540
+          name: openwrt/openwrt
+        - id: 196353673
+          name: taosdata/TDengine
+        - id: 49609581
+          name: PowerShell/PowerShell
+        - id: 105944401
+          name: yugabyte/yugabyte-db
+        - id: 59239347
+          name: portainer/portainer
+        - id: 6934395
+          name: facebook/rocksdb
+        - id: 190416463
+          name: actions/runner-images
+        - id: 28449431
+          name: scylladb/scylladb
+        - id: 172104891
+          name: MaterializeInc/materialize
+        - id: 5349565
+          name: prestodb/presto
+        - id: 44781140
+          name: greenplum-db/gpdb
+        - id: 4542716
+          name: NixOS/nixpkgs
+        - id: 3199002
+          name: raspberrypi/linux
+        - id: 43613404
+          name: kubernetes-sigs/kubespray
+        - id: 52308441
+          name: status-im/status-mobile
+        - id: 198683574
+          name: dolthub/dolt
+        - id: 201403923
+          name: activeloopai/deeplake
+        - id: 68082730
+          name: Ralim/IronOS
+        - id: 22394357
+          name: osquery/osquery
+        - id: 422821402
+          name: FerretDB/FerretDB
+        - id: 220186120
+          name: codenotary/immudb
+        - id: 146468829
+          name: Nozbe/WatermelonDB

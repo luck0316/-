@@ -1,0 +1,9 @@
+name: Qunar
+type: Company
+data:
+  platforms:
+    - name: GitHub
+      type: Code Hosting
+      orgs:
+        - id: 43158242
+          name: qunarcorp

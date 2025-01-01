@@ -1,0 +1,14 @@
+name: CodeFuse
+type: Project
+data:
+  platforms:
+    - name: GitHub
+      type: Code Hosting
+      orgs:
+        - id: 143480819
+          name: codefuse-ai
+    - name: Gitee
+      type: Code Hosting
+      orgs:
+        - id: 12485756
+          name: codefuse-ai

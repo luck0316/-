@@ -1,0 +1,9 @@
+name: ThinkPHP
+type: Company
+data:
+  platforms:
+    - name: GitHub
+      type: Code Hosting
+      orgs:
+        - id: 16305258
+          name: top-think

@@ -1,0 +1,9 @@
+name: Pentaho
+type: Company
+data:
+  platforms:
+    - name: GitHub
+      type: Code Hosting
+      orgs:
+        - id: 1022787
+          name: pentaho

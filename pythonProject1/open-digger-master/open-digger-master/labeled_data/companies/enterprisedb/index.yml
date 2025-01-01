@@ -1,0 +1,9 @@
+name: EnterpriseDB
+type: Company
+data:
+  platforms:
+    - name: GitHub
+      type: Code Hosting
+      orgs:
+        - id: 177543
+          name: postgres

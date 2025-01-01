@@ -1,0 +1,21 @@
+name: Microsoft
+type: Company
+data:
+  labels:
+    - azure
+    - dotnet
+    - fluentui
+    - fluid_framework
+    - interpretml
+    - onnxruntime
+    - playwright
+    - power_toys
+    - powershell
+    - vcpkg
+    - vscode
+  platforms:
+    - name: GitHub
+      type: Code Hosting
+      orgs:
+        - id: 6154722
+          name: microsoft

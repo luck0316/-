@@ -1,0 +1,9 @@
+name: mPaaS
+type: Project
+data:
+  platforms:
+    - name: GitHub
+      type: Code Hosting
+      orgs:
+        - id: 62416602
+          name: mpaas-demo

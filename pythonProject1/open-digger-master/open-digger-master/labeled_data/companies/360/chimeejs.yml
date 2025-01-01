@@ -1,0 +1,9 @@
+name: Chimeejs
+type: Project
+data:
+  platforms:
+    - name: GitHub
+      type: Code Hosting
+      orgs:
+        - id: 29886630
+          name: Chimeejs

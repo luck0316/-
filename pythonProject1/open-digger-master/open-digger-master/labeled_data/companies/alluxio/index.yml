@@ -1,0 +1,9 @@
+name: Alluxio
+type: Company
+data:
+  platforms:
+    - name: GitHub
+      type: Code Hosting
+      orgs:
+        - id: 16203694
+          name: Alluxio

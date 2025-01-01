@@ -1,0 +1,9 @@
+name: 玲珑
+type: Project
+data:
+  platforms:
+    - name: GitHub
+      type: Code Hosting
+      repos:
+        - id: 570065919
+          name: linuxdeepin/linglong

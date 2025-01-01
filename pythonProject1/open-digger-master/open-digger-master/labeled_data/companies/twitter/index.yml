@@ -1,0 +1,17 @@
+name: Twitter
+type: Company
+data:
+  platforms:
+    - name: GitHub
+      type: Code Hosting
+      orgs:
+        - id: 50278
+          name: twitter
+        - id: 7451118
+          name: twitterdev
+        - id: 5313303
+          name: twitter-archive
+        - id: 64912658
+          name: twitter-research
+        - id: 2918581
+          name: twbs

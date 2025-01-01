@@ -1,0 +1,102 @@
+{
+  "modifiedOption": {
+    "orgIds": [
+      1342004
+    ],
+    "startYear": 2015,
+    "endYear": 2016,
+    "startMonth": 1,
+    "endMonth": 12,
+    "order": "DESC",
+    "limit": 3,
+    "limitOption": "all",
+    "groupTimeRange": "year",
+    "groupBy": null
+  },
+  "user_activity_desc_3_all_null_year": [
+    {
+      "id": "5384588",
+      "name": "googlebot",
+      "activity": [
+        540.23,
+        1360.66
+      ],
+      "issue_comment": [
+        "1781",
+        "4275"
+      ],
+      "open_issue": [
+        "0",
+        "0"
+      ],
+      "open_pull": [
+        "0",
+        "0"
+      ],
+      "review_comment": [
+        "0",
+        "0"
+      ],
+      "merged_pull": [
+        "0",
+        "0"
+      ]
+    },
+    {
+      "id": "5279928",
+      "name": "thomasvl",
+      "activity": [
+        124.52,
+        301.23
+      ],
+      "issue_comment": [
+        "97",
+        "562"
+      ],
+      "open_issue": [
+        "4",
+        "17"
+      ],
+      "open_pull": [
+        "81",
+        "192"
+      ],
+      "review_comment": [
+        "5",
+        "187"
+      ],
+      "merged_pull": [
+        "77",
+        "188"
+      ]
+    },
+    {
+      "id": "566311",
+      "name": "zidarsk8",
+      "activity": [
+        94.98,
+        149.96
+      ],
+      "issue_comment": [
+        "167",
+        "424"
+      ],
+      "open_issue": [
+        "0",
+        "0"
+      ],
+      "open_pull": [
+        "124",
+        "224"
+      ],
+      "review_comment": [
+        "193",
+        "565"
+      ],
+      "merged_pull": [
+        "108",
+        "203"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+name: NVIDIA
+type: Company
+data:
+  labels:
+    - nemo
+  platforms:
+    - name: GitHub
+      type: Code Hosting
+      orgs:
+        - id: 1728152
+          name: NVIDIA
+        - id: 7717624
+          name: NVIDIAGameWorks
+        - id: 2695301
+          name: NVlabs

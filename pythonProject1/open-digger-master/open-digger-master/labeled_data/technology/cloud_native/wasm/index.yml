@@ -1,0 +1,9 @@
+name: Cloud Native - Wasm
+type: Tech-1
+data:
+  labels:
+    - installable_platform
+    - packaging_registries_and_application_delivery
+    - runtime
+    - specifications
+    - toolchain

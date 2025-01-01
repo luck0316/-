@@ -1,0 +1,9 @@
+name: Instructure
+type: Company
+data:
+  platforms:
+    - name: GitHub
+      type: Code Hosting
+      orgs:
+        - id: 515326
+          name: instructure

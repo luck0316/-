@@ -1,0 +1,9 @@
+name: Puppet Labs
+type: Company
+data:
+  platforms:
+    - name: GitHub
+      type: Code Hosting
+      orgs:
+        - id: 234268
+          name: puppetlabs

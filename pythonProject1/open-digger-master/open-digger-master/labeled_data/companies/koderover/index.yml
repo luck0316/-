@@ -1,0 +1,9 @@
+name: KodeRover
+type: Company
+data:
+  platforms:
+    - name: GitHub
+      type: Code Hosting
+      orgs:
+        - id: 59965645
+          name: koderover

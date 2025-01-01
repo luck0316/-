@@ -1,0 +1,9 @@
+name: Ant Mini Program
+type: Project
+data:
+  platforms:
+    - name: GitHub
+      type: Code Hosting
+      orgs:
+        - id: 37180217
+          name: ant-mini-program

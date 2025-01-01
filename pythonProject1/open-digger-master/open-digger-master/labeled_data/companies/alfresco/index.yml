@@ -1,0 +1,9 @@
+name: Alfresco
+type: Company
+data:
+  platforms:
+    - name: GitHub
+      type: Code Hosting
+      orgs:
+        - id: 391127
+          name: Alfresco
