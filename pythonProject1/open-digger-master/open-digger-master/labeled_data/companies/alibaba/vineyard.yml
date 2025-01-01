@@ -1,9 +1,0 @@
-name: Vineyard
-type: Project
-data:
-  platforms:
-    - name: GitHub
-      type: Code Hosting
-      orgs:
-        - id: 83062528
-          name: v6d-io

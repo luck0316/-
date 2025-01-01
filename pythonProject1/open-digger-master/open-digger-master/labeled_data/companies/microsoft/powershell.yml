@@ -1,9 +1,0 @@
-name: PowerShell
-type: Project
-data:
-  platforms:
-    - name: GitHub
-      type: Code Hosting
-      orgs:
-        - id: 11524380
-          name: PowerShell

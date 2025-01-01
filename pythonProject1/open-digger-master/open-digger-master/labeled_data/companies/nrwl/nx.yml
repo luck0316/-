@@ -1,9 +1,0 @@
-name: Nx
-type: Project
-data:
-  platforms:
-    - name: GitHub
-      type: Code Hosting
-      orgs:
-        - id: 23692104
-          name: nrwl

@@ -1,9 +1,0 @@
-name: PolarDB-X
-type: Project
-data:
-  platforms:
-    - name: GitHub
-      type: Code Hosting
-      orgs:
-        - id: 120164000
-          name: polardb

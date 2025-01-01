@@ -1,9 +1,0 @@
-name: HyperBench
-type: Project
-data:
-  platforms:
-    - name: GitHub
-      type: Code Hosting
-      repos:
-        - id: 321879436
-          name: meshplus/hyperbench

@@ -1,9 +1,0 @@
-name: Marko
-type: Project
-data:
-  platforms:
-    - name: GitHub
-      type: Code Hosting
-      orgs:
-        - id: 11873696
-          name: marko-js

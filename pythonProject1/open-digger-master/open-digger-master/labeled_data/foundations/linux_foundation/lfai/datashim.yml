@@ -1,9 +1,0 @@
-name: Datashim
-type: Project
-data:
-  platforms:
-    - name: GitHub
-      type: Code Hosting
-      orgs:
-        - id: 79857267
-          name: datashim-io

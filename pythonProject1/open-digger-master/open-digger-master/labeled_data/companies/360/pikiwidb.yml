@@ -1,9 +1,0 @@
-name: PikiwiDB
-type: Project
-data:
-  platforms:
-    - name: GitHub
-      type: Code Hosting
-      repos:
-        - id: 26127968
-          name: OpenAtomFoundation/pika

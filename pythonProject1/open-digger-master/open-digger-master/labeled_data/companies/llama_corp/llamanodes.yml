@@ -1,9 +1,0 @@
-name: LlamaNodes
-type: Project
-data:
-  platforms:
-    - name: GitHub
-      type: Code Hosting
-      orgs:
-        - id: 109090131
-          name: llamanodes

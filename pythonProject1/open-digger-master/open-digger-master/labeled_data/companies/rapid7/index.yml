@@ -1,9 +1,0 @@
-name: Rapid7
-type: Company
-data:
-  platforms:
-    - name: GitHub
-      type: Code Hosting
-      orgs:
-        - id: 1013671
-          name: rapid7

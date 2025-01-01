@@ -1,9 +1,0 @@
-name: AMP
-type: Project
-data:
-  platforms:
-    - name: GitHub
-      type: Code Hosting
-      orgs:
-        - id: 14114390
-          name: ampproject

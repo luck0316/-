@@ -1,9 +1,0 @@
-name: OpenMessaging
-type: Project
-data:
-  platforms:
-    - name: GitHub
-      type: Code Hosting
-      orgs:
-        - id: 26734561
-          name: openmessaging

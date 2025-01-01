@@ -1,9 +1,0 @@
-name: bRPC
-type: Project
-data:
-  platforms:
-    - name: GitHub
-      type: Code Hosting
-      repos:
-        - id: 102343794
-          name: apache/incubator-brpc

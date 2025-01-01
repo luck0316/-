@@ -1,9 +1,0 @@
-name: Deno
-type: Company
-data:
-  platforms:
-    - name: GitHub
-      type: Code Hosting
-      orgs:
-        - id: 42048915
-          name: denoland

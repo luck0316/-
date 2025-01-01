@@ -1,9 +1,0 @@
-name: KWDB
-type: Project
-data:
-  platforms:
-    - name: Gitee
-      type: Code Hosting
-      orgs:
-        - id: 13578710
-          name: kwdb

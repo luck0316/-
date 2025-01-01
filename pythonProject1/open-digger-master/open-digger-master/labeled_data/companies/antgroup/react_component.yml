@@ -1,9 +1,0 @@
-name: React Component
-type: Project
-data:
-  platforms:
-    - name: GitHub
-      type: Code Hosting
-      orgs:
-        - id: 9441414
-          name: react-component

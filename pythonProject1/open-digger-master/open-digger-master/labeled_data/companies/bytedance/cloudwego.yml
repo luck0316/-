@@ -1,9 +1,0 @@
-name: CloudWeGo
-type: Project
-data:
-  platforms:
-    - name: GitHub
-      type: Code Hosting
-      orgs:
-        - id: 79236453
-          name: CloudWeGo

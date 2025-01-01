@@ -1,9 +1,0 @@
-name: Tailscale
-type: Project
-data:
-  platforms:
-    - name: GitHub
-      type: Code Hosting
-      orgs:
-        - id: 48932923
-          name: tailscale

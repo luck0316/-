@@ -1,9 +1,0 @@
-name: Jina AI
-type: Company
-data:
-  platforms:
-    - name: GitHub
-      type: Code Hosting
-      orgs:
-        - id: 60539444
-          name: jina-ai

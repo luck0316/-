@@ -1,9 +1,0 @@
-name: Mars
-type: Project
-data:
-  platforms:
-    - name: GitHub
-      type: Code Hosting
-      orgs:
-        - id: 43056710
-          name: mars-project

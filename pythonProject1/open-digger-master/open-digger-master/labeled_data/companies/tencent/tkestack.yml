@@ -1,9 +1,0 @@
-name: TKEStack
-type: Project
-data:
-  platforms:
-    - name: GitHub
-      type: Code Hosting
-      orgs:
-        - id: 57258287
-          name: tkestack

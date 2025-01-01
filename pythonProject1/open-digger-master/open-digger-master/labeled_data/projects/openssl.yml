@@ -1,9 +1,0 @@
-name: OpenSSL
-type: Project
-data:
-  platforms:
-    - name: GitHub
-      type: Code Hosting
-      orgs:
-        - id: 3279138
-          name: openssl

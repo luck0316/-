@@ -1,6 +1,0 @@
-name: Flant
-type: Company
-data:
-  labels:
-    - deckhouse
-    - werf

@@ -1,9 +1,0 @@
-name: Couchbase
-type: Company
-data:
-  platforms:
-    - name: GitHub
-      type: Code Hosting
-      orgs:
-        - id: 605755
-          name: couchbase

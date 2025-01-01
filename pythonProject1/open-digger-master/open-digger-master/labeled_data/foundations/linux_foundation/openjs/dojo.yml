@@ -1,9 +1,0 @@
-name: Dojo
-type: Project
-data:
-  platforms:
-    - name: GitHub
-      type: Code Hosting
-      orgs:
-        - id: 86896
-          name: dojo

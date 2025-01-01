@@ -1,9 +1,0 @@
-name: Postman
-type: Company
-data:
-  platforms:
-    - name: GitHub
-      type: Code Hosting
-      orgs:
-        - id: 10251060
-          name: postmanlabs

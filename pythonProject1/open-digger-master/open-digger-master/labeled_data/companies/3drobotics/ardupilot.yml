@@ -1,9 +1,0 @@
-name: ArduPilot
-type: Project
-data:
-  platforms:
-    - name: GitHub
-      type: Code Hosting
-      orgs:
-        - id: 17919847
-          name: ardupilot

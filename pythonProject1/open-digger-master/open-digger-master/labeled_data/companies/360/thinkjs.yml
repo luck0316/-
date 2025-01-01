@@ -1,9 +1,0 @@
-name: ThinkJS
-type: Project
-data:
-  platforms:
-    - name: GitHub
-      type: Code Hosting
-      orgs:
-        - id: 15226349
-          name: thinkjs

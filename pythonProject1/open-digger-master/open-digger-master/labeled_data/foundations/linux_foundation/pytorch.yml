@@ -1,5 +1,0 @@
-name: PyTorch Foundation
-type: Foundation
-data:
-  labels:
-    - ':companies/meta/pytorch'

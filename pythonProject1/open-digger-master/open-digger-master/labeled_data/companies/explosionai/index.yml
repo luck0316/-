@@ -1,9 +1,0 @@
-name: Explosion AI
-type: Company
-data:
-  platforms:
-    - name: GitHub
-      type: Code Hosting
-      orgs:
-        - id: 20011530
-          name: explosion

@@ -1,9 +1,0 @@
-name: cnpm
-type: Project
-data:
-  platforms:
-    - name: GitHub
-      type: Code Hosting
-      orgs:
-        - id: 6365106
-          name: cnpm

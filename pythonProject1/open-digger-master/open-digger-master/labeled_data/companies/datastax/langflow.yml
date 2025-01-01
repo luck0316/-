@@ -1,9 +1,0 @@
-name: Langflow
-type: Project
-data:
-  platforms:
-    - name: GitHub
-      type: Code Hosting
-      orgs:
-        - id: 85702467
-          name: langflow-ai

@@ -1,9 +1,0 @@
-name: island.is
-type: Project
-data:
-  platforms:
-    - name: GitHub
-      type: Code Hosting
-      orgs:
-        - id: 63754601
-          name: island-is

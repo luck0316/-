@@ -1,9 +1,0 @@
-name: Tensorflow
-type: Project
-data:
-  platforms:
-    - name: GitHub
-      type: Code Hosting
-      orgs:
-        - id: 15658638
-          name: tensorflow

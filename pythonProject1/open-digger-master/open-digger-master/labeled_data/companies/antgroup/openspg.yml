@@ -1,9 +1,0 @@
-name: OpenSPG
-type: Project
-data:
-  platforms:
-    - name: GitHub
-      type: Code Hosting
-      orgs:
-        - id: 148738724
-          name: OpenSPG

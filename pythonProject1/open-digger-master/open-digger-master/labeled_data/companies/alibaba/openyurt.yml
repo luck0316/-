@@ -1,9 +1,0 @@
-name: OpenYurt
-type: Project
-data:
-  platforms:
-    - name: GitHub
-      type: Code Hosting
-      orgs:
-        - id: 69286650
-          name: openyurtio

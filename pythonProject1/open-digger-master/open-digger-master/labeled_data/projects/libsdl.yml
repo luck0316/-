@@ -1,9 +1,0 @@
-name: SDL
-type: Project
-data:
-  platforms:
-    - name: GitHub
-      type: Code Hosting
-      orgs:
-        - id: 77683370
-          name: libsdl-org

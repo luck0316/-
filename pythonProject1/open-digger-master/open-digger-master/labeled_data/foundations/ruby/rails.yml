@@ -1,9 +1,0 @@
-name: Ruby on Rails
-type: Project
-data:
-  platforms:
-    - name: GitHub
-      type: Code Hosting
-      orgs:
-        - id: 4223
-          name: rails

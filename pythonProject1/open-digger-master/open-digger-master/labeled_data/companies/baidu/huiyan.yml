@@ -1,9 +1,0 @@
-name: Biadu Map Huiyan
-type: Project
-data:
-  platforms:
-    - name: GitHub
-      type: Code Hosting
-      orgs:
-        - id: 13144859
-          name: huiyan-fe

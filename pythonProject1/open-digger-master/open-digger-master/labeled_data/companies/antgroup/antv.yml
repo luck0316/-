@@ -1,9 +1,0 @@
-name: AntV
-type: Project
-data:
-  platforms:
-    - name: GitHub
-      type: Code Hosting
-      orgs:
-        - id: 19199542
-          name: antvis

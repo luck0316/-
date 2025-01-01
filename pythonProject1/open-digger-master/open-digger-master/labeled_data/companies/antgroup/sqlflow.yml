@@ -1,9 +1,0 @@
-name: SQLFlow
-type: Project
-data:
-  platforms:
-    - name: GitHub
-      type: Code Hosting
-      orgs:
-        - id: 48231449
-          name: sql-machine-learning

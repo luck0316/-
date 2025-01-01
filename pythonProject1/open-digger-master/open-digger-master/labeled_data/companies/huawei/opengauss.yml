@@ -1,9 +1,0 @@
-name: openGauss
-type: Project
-data:
-  platforms:
-    - name: Gitee
-      type: Code Hosting
-      orgs:
-        - id: 5549555
-          name: opengauss

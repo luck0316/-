@@ -1,9 +1,0 @@
-name: KubeDL
-type: Project
-data:
-  platforms:
-    - name: GitHub
-      type: Code Hosting
-      orgs:
-        - id: 87515570
-          name: kubedl-io

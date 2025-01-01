@@ -1,9 +1,0 @@
-name: Werf
-type: Project
-data:
-  platforms:
-    - name: GitHub
-      type: Code Hosting
-      orgs:
-        - id: 66415983
-          name: werf

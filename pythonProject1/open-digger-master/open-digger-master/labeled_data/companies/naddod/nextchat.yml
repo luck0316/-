@@ -1,9 +1,0 @@
-name: NextChat
-type: Project
-data:
-  platforms:
-    - name: GitHub
-      type: Code Hosting
-      repos:
-        - id: 646695300
-          name: naddod/ChatGPT-Next-Web

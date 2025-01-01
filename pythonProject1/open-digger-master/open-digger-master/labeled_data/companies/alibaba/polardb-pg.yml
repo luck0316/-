@@ -1,9 +1,0 @@
-name: PolarDB-for-PostgreSQL
-type: Project
-data:
-  platforms:
-    - name: GitHub
-      type: Code Hosting
-      orgs:
-        - id: 92418439
-          name: ApsaraDB

@@ -1,9 +1,0 @@
-name: UBML
-type: Project
-data:
-  platforms:
-    - name: Gitee
-      type: Code Hosting
-      orgs:
-        - id: 6618522
-          name: ubml

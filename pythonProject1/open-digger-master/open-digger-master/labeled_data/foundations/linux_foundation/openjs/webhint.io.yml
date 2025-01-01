@@ -1,9 +1,0 @@
-name: Webhint.io
-type: Project
-data:
-  platforms:
-    - name: GitHub
-      type: Code Hosting
-      orgs:
-        - id: 25042266
-          name: webhintio

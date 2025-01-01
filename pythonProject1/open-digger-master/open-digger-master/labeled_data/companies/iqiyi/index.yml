@@ -1,9 +1,0 @@
-name: iQiyi
-type: Company
-data:
-  platforms:
-    - name: GitHub
-      type: Code Hosting
-      orgs:
-        - id: 32627384
-          name: iqiyi

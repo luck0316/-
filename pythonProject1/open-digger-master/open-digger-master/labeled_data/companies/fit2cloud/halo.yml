@@ -1,9 +1,0 @@
-name: Halo
-type: Project
-data:
-  platforms:
-    - name: GitHub
-      type: Code Hosting
-      orgs:
-        - id: 48195280
-          name: halo-dev

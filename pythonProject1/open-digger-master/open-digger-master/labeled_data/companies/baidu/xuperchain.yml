@@ -1,9 +1,0 @@
-name: XuperCore
-type: Project
-data:
-  platforms:
-    - name: GitHub
-      type: Code Hosting
-      orgs:
-        - id: 43258643
-          name: xuperchain

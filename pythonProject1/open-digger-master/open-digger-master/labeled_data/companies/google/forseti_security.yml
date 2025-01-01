@@ -1,9 +1,0 @@
-name: Forseti Security
-type: Project
-data:
-  platforms:
-    - name: GitHub
-      type: Code Hosting
-      orgs:
-        - id: 48604099
-          name: forseti-security

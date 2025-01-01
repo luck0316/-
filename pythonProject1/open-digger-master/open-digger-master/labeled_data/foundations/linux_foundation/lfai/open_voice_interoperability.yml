@@ -1,9 +1,0 @@
-name: Open Voice Interoperability
-type: Project
-data:
-  platforms:
-    - name: GitHub
-      type: Code Hosting
-      orgs:
-        - id: 46052400
-          name: open-voice-interoperability

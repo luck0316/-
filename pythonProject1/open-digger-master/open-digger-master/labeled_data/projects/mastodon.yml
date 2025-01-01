@@ -1,9 +1,0 @@
-name: Mastodon
-type: Project
-data:
-  platforms:
-    - name: GitHub
-      type: Code Hosting
-      orgs:
-        - id: 24979032
-          name: mastodon

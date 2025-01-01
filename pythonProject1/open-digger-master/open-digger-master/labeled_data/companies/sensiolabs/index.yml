@@ -1,7 +1,0 @@
-name: SensioLabs
-type: Company
-data:
-  labels:
-    - blackfire
-    - symfony
-    - twig

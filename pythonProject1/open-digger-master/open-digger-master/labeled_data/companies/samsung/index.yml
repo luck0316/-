@@ -1,9 +1,0 @@
-name: Samsung
-type: Company
-data:
-  platforms:
-    - name: GitHub
-      type: Code Hosting
-      orgs:
-        - id: 6210390
-          name: Samsung

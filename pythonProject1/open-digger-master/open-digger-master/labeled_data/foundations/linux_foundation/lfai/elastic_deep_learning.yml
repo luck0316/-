@@ -1,9 +1,0 @@
-name: Elastic Deep Learning (EDL)
-type: Project
-data:
-  platforms:
-    - name: GitHub
-      type: Code Hosting
-      orgs:
-        - id: 64051407
-          name: elasticdeeplearning

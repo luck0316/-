@@ -1,9 +1,0 @@
-name: Taichi
-type: Company
-data:
-  platforms:
-    - name: GitHub
-      type: Code Hosting
-      orgs:
-        - id: 33354891
-          name: taichi-dev

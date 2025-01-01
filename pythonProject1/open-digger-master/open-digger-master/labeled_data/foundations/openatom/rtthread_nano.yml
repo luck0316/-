@@ -1,9 +1,0 @@
-name: RT-TKern
-type: Project
-data:
-  platforms:
-    - name: GitHub
-      type: Code Hosting
-      repos:
-        - id: 152023277
-          name: RT-Thread/rtthread-nano

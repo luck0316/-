@@ -1,9 +1,0 @@
-name: MesaLock Linux
-type: Project
-data:
-  platforms:
-    - name: GitHub
-      type: Code Hosting
-      orgs:
-        - id: 34010907
-          name: mesalock-linux

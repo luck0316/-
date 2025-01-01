@@ -1,9 +1,0 @@
-name: Cloud HPC
-type: Project
-data:
-  platforms:
-    - name: Gitee
-      type: Code Hosting
-      repos:
-        - id: 27944958
-          name: zhenrong-wang/hpc-now

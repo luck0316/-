@@ -1,9 +1,0 @@
-name: CTrip
-type: Company
-data:
-  platforms:
-    - name: GitHub
-      type: Code Hosting
-      orgs:
-        - id: 10720307
-          name: ctripcorp

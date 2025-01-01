@@ -1,9 +1,0 @@
-name: KarasJS
-type: Project
-data:
-  platforms:
-    - name: GitHub
-      type: Code Hosting
-      orgs:
-        - id: 45850884
-          name: karasjs

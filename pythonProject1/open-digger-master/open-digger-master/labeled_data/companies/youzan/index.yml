@@ -1,9 +1,0 @@
-name: Youzan
-type: Company
-data:
-  platforms:
-    - name: GitHub
-      type: Code Hosting
-      orgs:
-        - id: 11404085
-          name: youzan

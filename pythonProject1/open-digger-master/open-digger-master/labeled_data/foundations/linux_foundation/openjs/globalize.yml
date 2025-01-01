@@ -1,9 +1,0 @@
-name: Globalize
-type: Project
-data:
-  platforms:
-    - name: GitHub
-      type: Code Hosting
-      orgs:
-        - id: 22963067
-          name: globalizejs

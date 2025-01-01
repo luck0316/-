@@ -1,9 +1,0 @@
-name: Cloudflare
-type: Project
-data:
-  platforms:
-    - name: GitHub
-      type: Code Hosting
-      orgs:
-        - id: 314135
-          name: cloudflare

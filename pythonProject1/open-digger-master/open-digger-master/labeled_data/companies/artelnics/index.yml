@@ -1,9 +1,0 @@
-name: Artelnics
-type: Company
-data:
-  platforms:
-    - name: GitHub
-      type: Code Hosting
-      orgs:
-        - id: 16352922
-          name: Artelnics

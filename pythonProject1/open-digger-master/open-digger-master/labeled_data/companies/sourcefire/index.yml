@@ -1,9 +1,0 @@
-name: Sourcefire
-type: Company
-data:
-  platforms:
-    - name: GitHub
-      type: Code Hosting
-      orgs:
-        - id: 38250620
-          name: snort3

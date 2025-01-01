@@ -1,9 +1,0 @@
-name: NG-ZORRO
-type: Project
-data:
-  platforms:
-    - name: GitHub
-      type: Code Hosting
-      orgs:
-        - id: 30223759
-          name: NG-ZORRO

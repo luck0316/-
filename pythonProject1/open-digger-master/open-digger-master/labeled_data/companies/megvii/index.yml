@@ -1,9 +1,0 @@
-name: Megvii
-type: Company
-data:
-  platforms:
-    - name: GitHub
-      type: Code Hosting
-      orgs:
-        - id: 61609124
-          name: MegEngine

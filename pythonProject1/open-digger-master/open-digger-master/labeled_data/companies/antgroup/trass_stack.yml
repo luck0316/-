@@ -1,9 +1,0 @@
-name: Traas Stack
-type: Project
-data:
-  platforms:
-    - name: GitHub
-      type: Code Hosting
-      orgs:
-        - id: 106951936
-          name: traasstack

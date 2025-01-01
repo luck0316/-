@@ -1,9 +1,0 @@
-name: Sealer
-type: Project
-data:
-  platforms:
-    - name: GitHub
-      type: Code Hosting
-      orgs:
-        - id: 104560867
-          name: sealerio

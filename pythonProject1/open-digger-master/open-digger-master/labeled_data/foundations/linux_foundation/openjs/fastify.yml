@@ -1,9 +1,0 @@
-name: Fastify
-type: Project
-data:
-  platforms:
-    - name: GitHub
-      type: Code Hosting
-      orgs:
-        - id: 24939410
-          name: fastify

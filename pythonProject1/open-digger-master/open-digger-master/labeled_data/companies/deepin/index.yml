@@ -1,9 +1,0 @@
-name: Deepin
-type: Company
-data:
-  platforms:
-    - name: GitHub
-      type: Code Hosting
-      orgs:
-        - id: 1592697
-          name: linuxdeepin

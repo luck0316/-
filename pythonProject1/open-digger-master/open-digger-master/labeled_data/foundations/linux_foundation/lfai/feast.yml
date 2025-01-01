@@ -1,9 +1,0 @@
-name: Feast
-type: Project
-data:
-  platforms:
-    - name: GitHub
-      type: Code Hosting
-      orgs:
-        - id: 57027613
-          name: feast-dev

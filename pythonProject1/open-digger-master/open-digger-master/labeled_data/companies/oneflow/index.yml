@@ -1,9 +1,0 @@
-name: Oneflow
-type: Company
-data:
-  platforms:
-    - name: GitHub
-      type: Code Hosting
-      orgs:
-        - id: 24632470
-          name: Oneflow-Inc

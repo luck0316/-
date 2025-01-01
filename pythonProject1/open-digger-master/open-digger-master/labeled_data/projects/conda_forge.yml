@@ -1,9 +1,0 @@
-name: Conda Forge
-type: Project
-data:
-  platforms:
-    - name: GitHub
-      type: Code Hosting
-      orgs:
-        - id: 11897326
-          name: conda-forge

@@ -1,9 +1,0 @@
-name: Cloud Wise
-type: Company
-data:
-  platforms:
-    - name: GitHub
-      type: Code Hosting
-      orgs:
-        - id: 20625392
-          name: CloudWise-OpenSource

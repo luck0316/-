@@ -1,9 +1,0 @@
-name: DCloud
-type: Company
-data:
-  platforms:
-    - name: GitHub
-      type: Code Hosting
-      orgs:
-        - id: 5485517
-          name: dcloudio

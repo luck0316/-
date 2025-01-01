@@ -1,9 +1,0 @@
-name: YDB
-type: Project
-data:
-  platforms:
-    - name: GitHub
-      type: Code Hosting
-      orgs:
-        - id: 88314308
-          name: ydb-platform

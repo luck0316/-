@@ -1,9 +1,0 @@
-name: ForgeRock
-type: Company
-data:
-  platforms:
-    - name: GitHub
-      type: Code Hosting
-      orgs:
-        - id: 8464100
-          name: OpenRock

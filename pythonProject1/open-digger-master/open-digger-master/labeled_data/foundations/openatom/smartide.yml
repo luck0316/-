@@ -1,9 +1,0 @@
-name: SmartIDE
-type: Project
-data:
-  platforms:
-    - name: GitHub
-      type: Code Hosting
-      orgs:
-        - id: 90735430
-          name: SmartIDE

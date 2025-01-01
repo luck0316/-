@@ -1,9 +1,0 @@
-name: ESPRESSIF
-type: Company
-data:
-  platforms:
-    - name: GitHub
-      type: Code Hosting
-      orgs:
-        - id: 9460735
-          name: espressif

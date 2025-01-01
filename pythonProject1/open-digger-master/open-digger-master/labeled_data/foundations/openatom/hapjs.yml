@@ -1,9 +1,0 @@
-name: hapjs
-type: Project
-data:
-  platforms:
-    - name: GitHub
-      type: Code Hosting
-      orgs:
-        - id: 88716089
-          name: hapjs-platform

@@ -1,9 +1,0 @@
-name: Noslate
-type: Project
-data:
-  platforms:
-    - name: GitHub
-      type: Code Hosting
-      orgs:
-        - id: 113880714
-          name: noslate-project

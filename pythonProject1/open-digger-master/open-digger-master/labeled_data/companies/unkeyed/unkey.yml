@@ -1,9 +1,0 @@
-name: Unkey
-type: Project
-data:
-  platforms:
-    - name: GitHub
-      type: Code Hosting
-      orgs:
-        - id: 138932600
-          name: unkeyed

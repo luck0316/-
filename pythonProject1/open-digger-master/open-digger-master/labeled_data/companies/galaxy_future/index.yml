@@ -1,9 +1,0 @@
-name: Galaxy Future
-type: Company
-data:
-  platforms:
-    - name: GitHub
-      type: Code Hosting
-      orgs:
-        - id: 87167108
-          name: galaxy-future

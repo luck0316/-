@@ -1,9 +1,0 @@
-name: Segment
-type: Company
-data:
-  platforms:
-    - name: GitHub
-      type: Code Hosting
-      orgs:
-        - id: 819518
-          name: segmentio

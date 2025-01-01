@@ -1,9 +1,0 @@
-name: Fluid
-type: Project
-data:
-  platforms:
-    - name: GitHub
-      type: Code Hosting
-      orgs:
-        - id: 68415741
-          name: fluid-cloudnative

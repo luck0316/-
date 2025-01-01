@@ -1,9 +1,0 @@
-name: MatrixOne
-type: Project
-data:
-  platforms:
-    - name: GitHub
-      type: Code Hosting
-      orgs:
-        - id: 76932962
-          name: matrixorigin

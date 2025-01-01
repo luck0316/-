@@ -1,9 +1,0 @@
-name: StackRox
-type: Project
-data:
-  platforms:
-    - name: GitHub
-      type: Code Hosting
-      orgs:
-        - id: 40638982
-          name: stackrox

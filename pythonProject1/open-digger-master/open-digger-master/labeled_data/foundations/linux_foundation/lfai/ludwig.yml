@@ -1,9 +1,0 @@
-name: Ludwig
-type: Project
-data:
-  platforms:
-    - name: GitHub
-      type: Code Hosting
-      orgs:
-        - id: 65477820
-          name: ludwig-ai

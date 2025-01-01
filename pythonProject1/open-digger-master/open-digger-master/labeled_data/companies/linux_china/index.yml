@@ -1,9 +1,0 @@
-name: Linux China
-type: Company
-data:
-  platforms:
-    - name: GitHub
-      type: Code Hosting
-      orgs:
-        - id: 5432002
-          name: LCTT

@@ -1,9 +1,0 @@
-name: shadPS4
-type: Project
-data:
-  platforms:
-    - name: GitHub
-      type: Code Hosting
-      orgs:
-        - id: 152868421
-          name: shadps4-emu

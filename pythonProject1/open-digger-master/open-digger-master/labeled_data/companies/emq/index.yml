@@ -1,6 +1,0 @@
-name: EMQ
-type: Company
-data:
-  labels:
-    - emqx
-    - hstreamdb

@@ -1,9 +1,0 @@
-name: Vesoft
-type: Company
-data:
-  platforms:
-    - name: GitHub
-      type: Code Hosting
-      orgs:
-        - id: 42441426
-          name: vesoft-inc

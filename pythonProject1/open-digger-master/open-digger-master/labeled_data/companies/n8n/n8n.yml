@@ -1,9 +1,0 @@
-name: n8n
-type: Project
-data:
-  platforms:
-    - name: GitHub
-      type: Code Hosting
-      orgs:
-        - id: 45487711
-          name: n8n-io

@@ -1,9 +1,0 @@
-name: ByteES
-type: Project
-data:
-  platforms:
-    - name: GitHub
-      type: Code Hosting
-      orgs:
-        - id: 74184117
-          name: bytees
