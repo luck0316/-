@@ -1,0 +1,9 @@
+name: H2O AI
+type: Company
+data:
+  platforms:
+    - name: GitHub
+      type: Code Hosting
+      orgs:
+        - id: 1402695
+          name: h2oai

@@ -1,0 +1,9 @@
+name: DataCanvas
+type: Company
+data:
+  platforms:
+    - name: GitHub
+      type: Code Hosting
+      orgs:
+        - id: 91237812
+          name: dingodb

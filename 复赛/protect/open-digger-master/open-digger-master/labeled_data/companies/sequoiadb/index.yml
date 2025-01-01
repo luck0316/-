@@ -1,0 +1,9 @@
+name: SequoiaDB
+type: Company
+data:
+  platforms:
+    - name: GitHub
+      type: Code Hosting
+      orgs:
+        - id: 6195592
+          name: SequoiaDB

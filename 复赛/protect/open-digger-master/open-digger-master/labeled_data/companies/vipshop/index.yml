@@ -1,0 +1,9 @@
+name: Vipshop
+type: Company
+data:
+  platforms:
+    - name: GitHub
+      type: Code Hosting
+      orgs:
+        - id: 7145544
+          name: vipshop

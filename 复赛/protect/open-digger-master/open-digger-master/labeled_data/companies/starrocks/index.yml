@@ -1,0 +1,5 @@
+name: StarRocks
+type: Company
+data:
+  labels:
+    - starrocks

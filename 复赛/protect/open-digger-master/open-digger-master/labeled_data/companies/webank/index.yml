@@ -1,0 +1,16 @@
+name: WeBank
+type: Company
+data:
+  platforms:
+    - name: GitHub
+      type: Code Hosting
+      orgs:
+        - id: 44182399
+          name: WeBankFinTech
+        - id: 54675540
+          name: FederatedAI
+    - name: Gitee
+      type: Code Hosting
+      orgs:
+        - id: 5279207
+          name: WeBank

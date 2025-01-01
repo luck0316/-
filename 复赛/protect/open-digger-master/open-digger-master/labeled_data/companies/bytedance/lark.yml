@@ -1,0 +1,9 @@
+name: Lark
+type: Project
+data:
+  platforms:
+    - name: GitHub
+      type: Code Hosting
+      orgs:
+        - id: 54944174
+          name: larksuite

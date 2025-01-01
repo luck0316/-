@@ -1,0 +1,9 @@
+name: Didi
+type: Company
+data:
+  platforms:
+    - name: GitHub
+      type: Code Hosting
+      orgs:
+        - id: 27521938
+          name: didi

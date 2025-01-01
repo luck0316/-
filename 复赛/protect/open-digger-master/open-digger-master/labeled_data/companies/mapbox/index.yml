@@ -1,0 +1,9 @@
+name: Mapbox
+type: Company
+data:
+  platforms:
+    - name: GitHub
+      type: Code Hosting
+      orgs:
+        - id: 600935
+          name: mapbox

@@ -1,0 +1,9 @@
+name: MidwayJS
+type: Project
+data:
+  platforms:
+    - name: GitHub
+      type: Code Hosting
+      orgs:
+        - id: 32128461
+          name: midwayjs

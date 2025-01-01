@@ -1,0 +1,9 @@
+name: Babelfish for PostgreSQL
+type: Project
+data:
+  platforms:
+    - name: GitHub
+      type: Code Hosting
+      orgs:
+        - id: 74576505
+          name: babelfish-for-postgresql

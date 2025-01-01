@@ -1,0 +1,14 @@
+name: KusionStack
+type: Project
+data:
+  platforms:
+    - name: GitHub
+      type: Code Hosting
+      orgs:
+        - id: 104968284
+          name: KusionStack
+    - name: Gitee
+      type: Code Hosting
+      orgs:
+        - id: 8473031
+          name: kusionstack

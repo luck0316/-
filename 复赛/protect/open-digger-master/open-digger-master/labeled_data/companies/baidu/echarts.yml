@@ -1,0 +1,9 @@
+name: Apache ECharts
+type: Project
+data:
+  platforms:
+    - name: GitHub
+      type: Code Hosting
+      repos:
+        - id: 9185792
+          name: apache/echarts

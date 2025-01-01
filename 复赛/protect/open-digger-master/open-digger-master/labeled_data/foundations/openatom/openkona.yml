@@ -1,0 +1,11 @@
+name: OpenKona
+type: Project
+data:
+  platforms:
+    - name: GitHub
+      type: Code Hosting
+      repos:
+        - id: 218916293
+          name: Tencent/TencentKona-8
+        - id: 344089867
+          name: Tencent/TencentKona-11

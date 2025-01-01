@@ -1,0 +1,9 @@
+name: SpriteJS
+type: Project
+data:
+  platforms:
+    - name: GitHub
+      type: Code Hosting
+      orgs:
+        - id: 29911379
+          name: spritejs

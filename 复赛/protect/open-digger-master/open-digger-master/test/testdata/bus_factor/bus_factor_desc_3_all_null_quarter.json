@@ -1,0 +1,91 @@
+{
+  "sql": "\nSELECT\n  id,\n  argMax(name, time) AS name,\n  groupArrayInsertAt(\n    0,\n    toUInt32(dateDiff('quarter', toDate('2015-1-1'), toDate('2016-12-1'))) + 1)(ROUND(bus_factor, 2),\n    toUInt32(dateDiff('quarter', toStartOfQuarter(toDate('2015-1-1')), time))) AS bus_factor,\n  groupArrayInsertAt(\n    [],\n    toUInt32(dateDiff('quarter', toDate('2015-1-1'), toDate('2016-12-1'))) + 1)(detail,\n    toUInt32(dateDiff('quarter', toStartOfQuarter(toDate('2015-1-1')), time))) AS detail,\n  groupArrayInsertAt(\n    0,\n    toUInt32(dateDiff('quarter', toDate('2015-1-1'), toDate('2016-12-1'))) + 1)(ROUND(total_contributions, 2),\n    toUInt32(dateDiff('quarter', toStartOfQuarter(toDate('2015-1-1')), time))) AS total_contributions\nFROM\n(\n  SELECT\n    time,\n    id,\n    any(name) AS name,\n    SUM(count) AS total_contributions,\n    length(detail) AS bus_factor,\n    arrayFilter(x -> tupleElement(x, 2) >= quantileExactWeighted(0.5)(count, count), arrayMap((x, y) -> (x, y), groupArray(actor_login), groupArray(count))) AS detail\n  FROM\n  (\n    SELECT\n      toStartOfQuarter(created_at) AS time,\n      repo_id AS id, argMax(repo_name, time) AS name,\n      \n          \n    if(type='PullRequestEvent' AND action='closed' AND pull_merged=1, issue_author_id, actor_id) AS actor_id,\n    argMax(if(type='PullRequestEvent' AND action='closed' AND pull_merged=1, issue_author_login, actor_login), created_at) AS actor_login,\n    countIf(type='IssueCommentEvent' AND action='created') AS issue_comment,\n    countIf(type='IssuesEvent' AND action='opened')  AS open_issue,\n    countIf(type='PullRequestEvent' AND action='opened') AS open_pull,\n    countIf(type='PullRequestReviewCommentEvent' AND action='created') AS review_comment,\n    countIf(type='PullRequestEvent' AND action='closed' AND pull_merged=1) AS merged_pull,\n    sqrt(1*issue_comment + 2*open_issue + 3*open_pull + 4*review_comment + 2*merged_pull) AS activity\n,\n          toUInt32(ceil(activity)) AS count\n          \n    FROM gh_events\n    WHERE type IN ('IssuesEvent', 'IssueCommentEvent', 'PullRequestEvent', 'PullRequestReviewCommentEvent') AND (org_id IN [1342004]) AND  created_at >= toDate('2015-1-1') AND created_at < dateAdd(month, 1, toDate('2016-12-1'))\n    GROUP BY id, time, actor_id\n    HAVING actor_login NOT LIKE '%[bot]'\n  )\n  GROUP BY id, time\n  \n)\nGROUP BY id\nORDER BY bus_factor[-1] DESC\n    LIMIT 3",
+  "modifiedOption": {
+    "orgIds": [
+      1342004
+    ],
+    "startYear": 2015,
+    "endYear": 2016,
+    "startMonth": 1,
+    "endMonth": 12,
+    "order": "DESC",
+    "limit": 3,
+    "limitOption": "all",
+    "groupTimeRange": "quarter",
+    "groupBy": null
+  },
+  "bus_factor_desc_3_all_null_quarter": [
+    {
+      "id": "20818126",
+      "name": "google/ExoPlayer",
+      "bus_factor": [
+        "38",
+        "71",
+        "62",
+        "86",
+        "253",
+        "198",
+        "219",
+        "277"
+      ],
+      "total_contributions": [
+        "286",
+        "425",
+        "469",
+        "599",
+        "709",
+        "580",
+        "609",
+        "796"
+      ]
+    },
+    {
+      "id": "29268051",
+      "name": "google/material-design-lite",
+      "bus_factor": [
+        "0",
+        "0",
+        "208",
+        "81",
+        "93",
+        "187",
+        "162",
+        "123"
+      ],
+      "total_contributions": [
+        "0",
+        "0",
+        "1576",
+        "732",
+        "873",
+        "564",
+        "502",
+        "397"
+      ]
+    },
+    {
+      "id": "23357588",
+      "name": "google/protobuf",
+      "bus_factor": [
+        "43",
+        "54",
+        "55",
+        "69",
+        "85",
+        "98",
+        "119",
+        "101"
+      ],
+      "total_contributions": [
+        "287",
+        "447",
+        "479",
+        "479",
+        "625",
+        "699",
+        "911",
+        "793"
+      ]
+    }
+  ]
+}

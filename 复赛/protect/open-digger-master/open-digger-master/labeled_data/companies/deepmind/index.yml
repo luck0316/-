@@ -1,0 +1,9 @@
+name: Deepmind
+type: Company
+data:
+  platforms:
+    - name: GitHub
+      type: Code Hosting
+      orgs:
+        - id: 8596759
+          name: deepmind

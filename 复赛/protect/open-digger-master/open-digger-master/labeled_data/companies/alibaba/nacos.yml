@@ -1,0 +1,12 @@
+name: Nacos
+type: Project
+data:
+  platforms:
+    - name: GitHub
+      type: Code Hosting
+      repos:
+        - id: 137451403
+          name: alibaba/nacos
+      orgs:
+        - id: 41446552
+          name: nacos-group

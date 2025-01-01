@@ -1,0 +1,9 @@
+name: EasyCorp
+type: Company
+data:
+  platforms:
+    - name: GitHub
+      type: Code Hosting
+      orgs:
+        - id: 237078
+          name: easysoft

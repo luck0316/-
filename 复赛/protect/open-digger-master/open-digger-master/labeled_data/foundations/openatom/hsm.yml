@@ -1,0 +1,9 @@
+name: HSMConn
+type: Project
+data:
+  platforms:
+    - name: GitHub
+      type: Code Hosting
+      repos:
+        - id: 678294986
+          name: hitsz-ids/hsmconn

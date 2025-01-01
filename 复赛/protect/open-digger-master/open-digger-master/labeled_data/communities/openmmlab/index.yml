@@ -1,0 +1,9 @@
+name: OpenMMLab
+type: Community
+data:
+  platforms:
+    - name: GitHub
+      type: Code Hosting
+      orgs:
+        - id: 10245193
+          name: open-mmlab

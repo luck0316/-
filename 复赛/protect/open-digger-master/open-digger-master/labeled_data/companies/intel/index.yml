@@ -1,0 +1,14 @@
+name: Intel
+type: Company
+data:
+  labels:
+    - nwjs
+    - openvino
+  platforms:
+    - name: GitHub
+      type: Code Hosting
+      orgs:
+        - id: 17888862
+          name: intel
+        - id: 1492758
+          name: IntelLabs

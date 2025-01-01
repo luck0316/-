@@ -1,0 +1,11 @@
+name: Netlify
+type: Company
+data:
+  platforms:
+    - name: GitHub
+      type: Code Hosting
+      orgs:
+        - id: 7892489
+          name: netlify
+        - id: 79226042
+          name: solidjs

@@ -1,0 +1,9 @@
+name: MOSN
+type: Project
+data:
+  platforms:
+    - name: GitHub
+      type: Code Hosting
+      orgs:
+        - id: 58020396
+          name: mosn

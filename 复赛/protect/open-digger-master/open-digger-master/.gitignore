@@ -1,0 +1,29 @@
+.vscode
+.idea
+.DS_Store
+*.swp
+*.lock
+
+*/**/node_modules
+src/**/*.js
+src/local_config.ts
+!src/open_digger.js
+src/cron/tasks/local_*
+*/**/.ipynb_checkpoints
+notebook/local
+lib
+dist
+node_modules
+
+sample_data/data
+
+# Ignore python
+*/**/__pycache__
+python/workspace/*
+python/workspace.py
+python/local_config.py
+
+# Ignore python_v2
+python_v2/workspace/*
+python_v2/workspace.py
+python_v2/local_config.py
